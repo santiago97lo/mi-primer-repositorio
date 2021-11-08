@@ -1,0 +1,8 @@
+cd: entrar a una carpeta.
+pwd: es para ver donde estoy en la terminal.
+ls: para ver los archivos que hay en la terminal.
+git add: añadir todo.
+touch: crear archivo de texto generalmente.
+mkdir: crear carpetas.
+git status: para saber si tengo algo que actualizar en esa carpeta, detecta si hay o no cambios.
+cat: para mirar que hay dentro una archivo, imprime el contenido del archivo.
